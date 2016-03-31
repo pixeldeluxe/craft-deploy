@@ -1,4 +1,4 @@
-wget -O latest.zip http://buildwithcraft.com/latest.zip?accept_license=yes
+wget -O latest.zip http://craftcms.com/latest.zip?accept_license=yes
 mv latest.zip?accept_license=yes latest.zip
 unzip latest.zip
 rm latest.zip
